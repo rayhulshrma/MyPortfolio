@@ -6,7 +6,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and profess
 
 The home section gives a brief introduction to who I am and what I do. 
 
-![Header Image](./src/assets/img/header-img.svg)
+![Header Image](https://yt3.googleusercontent.com/ytc/AIdro_miixApYIEU_A_7yf_Ivw6o4pPOrBE63Iy4GwXOTh8tCtc=s900-c-k-c0x00ffffff-no-rj)
 
 ## 💼 About Me
 
